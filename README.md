@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBassetto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" title="HTML" height="30" width="30px" src="https://github.com/FeBassetto/devicons/blob/main/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS" height="30" width="30px" src="https://github.com/FeBassetto/devicons/blob/main/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" title="HTML" height="30" width="10px" src="https://github.com/FeBassetto/devicons/blob/main/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="30" width="10px" src="https://github.com/FeBassetto/devicons/blob/main/icons/css3/css3-original.svg">
   <img align="center" alt="Js" title="Js" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ts" title="TS" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/typescript/typescript-original.svg">
   <img align="center" alt="JQuery" title="JQuery" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/jquery/jquery-original.svg">
