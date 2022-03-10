@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/FeBassetto">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=FeBassetto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBassetto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBassetto&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" title="HTML" height="30" width="30" src="https://github.com/FeBassetto/devicons/blob/main/icons/html5/html5-original.svg">
