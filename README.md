@@ -1,8 +1,10 @@
 ## 
 <div align="center">
   <a href="https://github.com/FeBassetto">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=FeBassetto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=FeBassetto&show_icons=true&theme=dark"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBassetto&layout=compact&langs_count=7&theme=dark"/> 
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4d60914e-9a3d-4cdc-90cc-caaeaa32bb6e/af30f314-df12-447e-9887-0137ede977ed.png" /></a\>
+    
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" title="HTML" height="30" width="30" src="https://github.com/FeBassetto/devicons/blob/main/icons/html5/html5-original.svg">
