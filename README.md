@@ -12,7 +12,6 @@
   <img align="center" alt="JQuery" title="JQuery" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/jquery/jquery-original.svg">
   <img align="center" alt="React" title="React" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" title="Nextjs" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Node" title="Node" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/mysql/mysql-original.svg">
   <img align="center" alt="GIT" title="GIT" height="30" width="30px" src="https://github.com/FeBassetto/devicons/blob/main/icons/git/git-original.svg">
