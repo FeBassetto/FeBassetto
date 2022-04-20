@@ -16,9 +16,8 @@
   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/mysql/mysql-original.svg">
   <img align="center" alt="GIT" title="GIT" height="30" width="30px" src="https://github.com/FeBassetto/devicons/blob/main/icons/git/git-original.svg">
   <br><br>
-      <h1>Coding time last 7 days</h1>
-  <a href="https://wakatime.com"><img height="480em" src="https://wakatime.com/share/@4d60914e-9a3d-4cdc-90cc-caaeaa32bb6e/c1e7c148-e0e7-4723-b213-e83b9e5f1bf5.png" />
-  </a>
+      <h1>Coding time last 30 days</h1>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4d60914e-9a3d-4cdc-90cc-caaeaa32bb6e/b7acfcd2-b64d-4e33-8008-6b9c528db436.png" /></a>
       <h1>Most languages used</h1>
      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4d60914e-9a3d-4cdc-90cc-caaeaa32bb6e/40758da5-37d1-46c6-b2e9-7aee65f472d6.png" /></a>
       
