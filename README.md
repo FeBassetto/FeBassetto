@@ -20,7 +20,7 @@
   <a href="https://wakatime.com"><img height="480em" src="https://wakatime.com/share/@4d60914e-9a3d-4cdc-90cc-caaeaa32bb6e/c1e7c148-e0e7-4723-b213-e83b9e5f1bf5.png" />
   </a>
       <h1>Most languages used</h1>
-      <a href="https://wakatime.com"><img height="480em" src="https://wakatime.com"><img src="https://wakatime.com/share/@4d60914e-9a3d-4cdc-90cc-caaeaa32bb6e/40758da5-37d1-46c6-b2e9-7aee65f472d6.png" /></a>
+     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4d60914e-9a3d-4cdc-90cc-caaeaa32bb6e/40758da5-37d1-46c6-b2e9-7aee65f472d6.png" /></a>
       
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
