@@ -7,6 +7,7 @@
     <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" title="HTML" height="30" width="30" src="https://github.com/FeBassetto/devicons/blob/main/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="30" src="https://github.com/FeBassetto/devicons/blob/main/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="30" src="https://github.com/FeBassetto/devicons/blob/main/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Js" title="Js" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ts" title="TS" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/typescript/typescript-original.svg">
   <img align="center" alt="JQuery" title="JQuery" height="30" width="40" src="https://github.com/FeBassetto/devicons/blob/main/icons/jquery/jquery-original.svg">
