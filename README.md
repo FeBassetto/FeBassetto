@@ -100,8 +100,8 @@ Proficiente em metodologias ágeis (Scrum/Kanban) e automação de processos. Bu
 ### 🌐 Idiomas
 
 * 🇧🇷 Português (Nativo)
-* 🇺🇸 Inglês (Profissional)
-* 🇪🇸 Espanhol (Básico/Intermediário)
+* 🇺🇸 Inglês (Avançado)
+* 🇪🇸 Espanhol (Básico)
 
 ---
 
