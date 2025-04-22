@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Felipe Silveira Bassetto
 
-## Desenvolvedor Full-Stack Pleno | React | Node.js | AWS
+## Desenvolvedor Full-Stack Pleno | React | React Native | Node.js | AWS
 
 📍 Botucatu-SP, Brasil
 
